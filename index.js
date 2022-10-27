@@ -5,11 +5,17 @@ const app = express();
 const port = process.env.PORT || 5000;
 
 app.use(cors());
-// const touristSpots = require("./data/touristSpots.json");
+const courses = require("./data/courses.json");
 
 app.get("/", (req, res) => {
-  res.send("Go pro server is running..");
+  res.send("Go pro server is running...");
 });
+
+app.get("/courses", (req, res) => {
+  res.send(courses);
+});
+
+
 
 app.listen(port, () => {
   console.log(`Go Pro server is running on port ${port}`);

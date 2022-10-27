@@ -2,37 +2,37 @@
   {
     "id": "1",
     "name": "HTML",
-    "picture": "",
+    "picture": "https://i.ibb.co/HzcJCYw/HTML.png",
     "details": "The HyperText Markup Language or HTML is the standard markup language for documents designed to be displayed in a web browser. It can be assisted by technologies such as Cascading Style Sheets and scripting languages such as JavaScript."
   },
   {
     "id": "2",
     "name": "CSS",
-    "picture": "",
+    "picture": "https://i.ibb.co/JrqzNLV/CSS.png",
     "details": "Cascading Style Sheets is a style sheet language used for describing the presentation of a document written in a markup language such as HTML or XML. CSS is a cornerstone technology of the World Wide Web, alongside HTML and JavaScript."
   },
   {
     "id": "3",
     "name": "JavaScript",
-    "picture": "",
+    "picture": "https://i.ibb.co/GtQ8SH3/javascript.png",
     "details": "JavaScript, often abbreviated as JS, is a programming language that is one of the core technologies of the World Wide Web, alongside HTML and CSS. As of 2022, 98% of websites use JavaScript on the client side for webpage behavior, often incorporating third-party libraries."
   },
   {
     "id": "4",
     "name": "Bootstrap",
-    "picture": "",
+    "picture": "https://i.ibb.co/WfR052d/Bootstrap.png",
     "details": "Bootstrap is a free and open-source CSS framework directed at responsive, mobile-first front-end web development. It contains HTML, CSS and JavaScript-based design templates for typography, forms, buttons, navigation, and other interface components."
   },
   {
     "id": "5",
     "name": "Tailwind CSS",
-    "picture": "",
+    "picture": "https://i.ibb.co/RBdybM2/tailwindui.jpg",
     "details": "Tailwind CSS is an open source CSS framework. The main feature of this library is that, unlike other CSS frameworks like Bootstrap, it does not provide a series of predefined classes for elements such as buttons or tables."
   },
   {
     "id": "6",
     "name": "React",
-    "picture": "",
+    "picture": "https://i.ibb.co/R9Rm1DS/react.png",
     "details": "React is a free and open-source front-end JavaScript library for building user interfaces based on UI components. It is maintained by Meta and a community of individual developers and companies."
   }
 ]
