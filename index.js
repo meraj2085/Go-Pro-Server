@@ -15,7 +15,11 @@ app.get("/courses", (req, res) => {
   res.send(courses);
 });
 
-
+app.get("/courses/:id", (req, res) => {
+  const id = req.params.id;
+  const selectedCourse = courses.find((c) => c.id === id);
+  res.send(selectedCourse);
+});
 
 app.listen(port, () => {
   console.log(`Go Pro server is running on port ${port}`);
