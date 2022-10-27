@@ -1,37 +1,37 @@
 [
   {
     "id": "1",
-    "name": "",
+    "name": "HTML",
     "picture": "",
     "details": ""
   },
   {
     "id": "2",
-    "name": "",
+    "name": "CSS",
     "picture": "",
     "details": ""
   },
   {
     "id": "3",
-    "name": "",
+    "name": "JavaScript",
     "picture": "",
     "details": ""
   },
   {
     "id": "4",
-    "name": "",
+    "name": "Bootstrap",
     "picture": "",
     "details": ""
   },
   {
     "id": "5",
-    "name": "",
+    "name": "Tailwind CSS",
     "picture": "",
     "details": ""
   },
   {
     "id": "6",
-    "name": "",
+    "name": "React",
     "picture": "",
     "details": ""
   }
